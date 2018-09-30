@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "OOP\\": "OOP/",
+            "Decorator\\": "Decorator/",
+            "Composite\\": "Composite/",
+            "Iterator\\": "Iterator/",
+            "Strategy\\": "Strategy/",
+            "Strategy\\Interfaces\\": "Strategy/Interfaces/",
+            "TemplateMethod\\": "TemplateMethod/"
+        }
+    },
+    "require-dev": {
+        "codeception/base": "^2.5"
+    }
+}
